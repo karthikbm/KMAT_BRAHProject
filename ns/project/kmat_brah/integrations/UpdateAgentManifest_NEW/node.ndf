@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">kmat</value>
-    <value name="lastModifiedDate">1718019294805</value>
+    <value name="lastModifiedDate">1718021314907</value>
     <value name="displayName">UpdateAgentManifest_NEW</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -70,8 +70,8 @@
         <number name="nodeIndex" type="Long">0</number>
         <number name="lineNumberForDebug" type="Long">1</number>
         <Boolean name="serviceReferenceResolved">true</Boolean>
-        <value name="nodePathForDebug">0</value>
         <Boolean name="xmlMapsetSupported">true</Boolean>
+        <value name="nodePathForDebug">0</value>
       </record>
     </record>
   </record>
