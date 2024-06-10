@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: KMAT_BRAHProject
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm/KMAT_BRAHProject
+  gitUsername: karthikbm
+  gitBranch: main
