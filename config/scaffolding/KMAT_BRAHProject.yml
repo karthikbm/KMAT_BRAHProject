@@ -52,3 +52,11 @@ services:
     version: "1.0"
   - name: OriginKMAT_Jun2024
     version: "1.0"
+- serviceName: project.kmat_brah.integrations:UpdateAgentManifest_11JUNE
+  packages:
+  - name: KMAT_BRAHProject
+    version: "1.0"
+  - name: ApiClient
+    version: "1.0"
+  - name: OriginKMAT_Jun2024
+    version: "1.0"
